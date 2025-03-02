@@ -2,3 +2,14 @@ img {
     height: 310;
     width: auto;
 }
+
+h1 {
+    font-family: serif;
+    color: yellow;
+    background-color: black;
+    text-align: center;
+}
+
+.centeralign {
+    text-align: center;
+}
